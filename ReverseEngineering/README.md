@@ -1,1 +1,2 @@
-
+Flag Formats:
+UJCYC{...}
